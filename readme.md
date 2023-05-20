@@ -10,8 +10,9 @@ This repository contains a Streamlit application that utilizes the power of Lang
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
+3. [Architecture](#architecture)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Installation
 
@@ -60,7 +61,9 @@ After obtaining your OpenAI API key, create a `.env` file in the root of your pr
 
 6. Upload a PDF file and ask questions about its content. The chatbot will generate answers based on the document's content.
 
-## How it Works
+## Architecture
+
+![Architecture Diagram](chatbot.svg)
 
 The chatbot works in several steps:
 
