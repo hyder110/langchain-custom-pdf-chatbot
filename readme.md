@@ -63,7 +63,7 @@ After obtaining your OpenAI API key, create a `.env` file in the root of your pr
 
 ## Architecture
 
-![Architecture Diagram](chatbot.svg)
+![Architecture Diagram](chatbot2.svg)
 
 The chatbot works in several steps:
 
