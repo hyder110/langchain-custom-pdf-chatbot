@@ -20,7 +20,7 @@ Before starting, make sure you have Python 3.8+ installed. To run the Q&A Chatbo
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/hyder110/LangChain-Projects.git
    cd repo-name
    ```
 
@@ -100,5 +100,5 @@ For more information, feel free to reach out!
 
 - Syed Hyder Ali Zaidi
 - Email: shaz22599@gmail.com
-- Twitter: [![Twitter Logo](https://image.flaticon.com/icons/png/128/733/733579.png)](https://twitter.com/shaz22599)
-- LinkedIn: [![LinkedIn Logo](https://image.flaticon.com/icons/png/128/174/174857.png)](https://www.linkedin.com/in/syed-hyder-ali-zaidi-136467202/)
+- Twitter: [![Twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/shaz22599)
+- LinkedIn: [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/syed-hyder-ali-zaidi-136467202/)
