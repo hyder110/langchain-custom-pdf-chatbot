@@ -100,5 +100,5 @@ For more information, feel free to reach out!
 
 - Syed Hyder Ali Zaidi
 - Email: shaz22599@gmail.com
-- Twitter: [![Twitter](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/shaz22599)
-- LinkedIn: [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/syed-hyder-ali-zaidi-136467202/)
+- Twitter: https://twitter.com/shaz22599
+- LinkedIn:https://www.linkedin.com/in/syed-hyder-ali-zaidi-136467202/
