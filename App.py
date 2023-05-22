@@ -31,7 +31,7 @@ if uploaded_file:
         text = page.extract_text()
         if text:
             raw_text += text
-
+            
     # Split the text into smaller chunks
     text_splitter = CharacterTextSplitter(
         separator="\n",
