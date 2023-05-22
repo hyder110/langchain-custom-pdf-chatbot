@@ -21,7 +21,7 @@ Before starting, make sure you have Python 3.8+ installed. To run the Q&A Chatbo
 1. Clone this repository:
 
    ```
-   git clone https://github.com/hyder110/LangChain-Projects.git
+   git clone https://github.com/hyder110/langchain-custom-pdf-chatbot.git
    cd repo-name
    ```
 
